@@ -4,7 +4,7 @@
 
 ### Evaluating Integrated Toe-Level Vibrotactile Feedback for Virtual-Foot Embodiment in VR
 
-**Moonsu Jang · HyungSeok Kim**  
+**Moonsu Jang · HyungSeok Kim · Youngwoon Cha**  
 Konkuk University
 
 **Code: Coming soon · Demo: Coming soon**
